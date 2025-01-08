@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this repository is to provide a collection of HTML files for a website. The website contains various pages such as biography, index, about me, contact, privacy policy, and screenshots. The HTML files are organized into separate directories based on their language.
+The purpose of this repository is to provide a collection of HTML files for the personal website of Kinga Szczepanek. The HTML files are organized into different languages and follow a consistent naming convention.
 
 ## Directory Structure
 
@@ -28,14 +28,14 @@ The HTML files follow a consistent naming convention:
 
 ## Usage
 
-To use the HTML files, simply open them in a web browser. You can navigate through the different pages by clicking on the links provided within the HTML files. Each page is designed to provide specific information or functionality related to the website.
+To use the HTML files, simply open them in a web browser. You can navigate through the different pages by clicking on the links provided in the navigation menus. Each HTML file represents a specific page of the personal website of Kinga Szczepanek.
 
 ## Contribution Guidelines
 
-We welcome contributions to this repository. If you would like to contribute, please follow these guidelines:
+Contributions to this repository are welcome. If you would like to contribute, please follow these guidelines:
 
-1. Fork the repository and create a new branch for your changes.
-2. Make your changes and ensure that they follow the existing coding style and conventions.
-3. Test your changes to ensure that they work as expected.
-4. Submit a pull request with a clear description of your changes and the purpose they serve.
-5. Be responsive to any feedback or questions regarding your pull request.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive commit messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request with a detailed description of your changes.
