@@ -12,12 +12,24 @@ The HTML files are organized into separate directories based on their language:
 
 The HTML files follow a consistent naming convention:
 
-- `biografia.html`: Biography page
-- `index.html`: Index page
-- `kinga_szczepanek_about_me.html`: About Me page
-- `kinga_szczepanek_kontakt.html`: Contact page
-- `kinga_szczepanek_o_mnie.html`: About Me page (Polish)
-- `kinga_szczepanek_xxx.html`: Placeholder page
-- `polityka_prywatnosci.html`: Privacy Policy page (Polish)
-- `privacy_policy.html`: Privacy Policy page (English)
-- `screenshots.html`: Screenshots page
+- `pl/biografia.html`: Biography page (Polish)
+- `en/biografia.html`: Biography page (English)
+- `ru/biografia.html`: Biography page (Russian)
+- `pl/index.html`: Index page (Polish)
+- `en/index.html`: Index page (English)
+- `ru/index.html`: Index page (Russian)
+- `ru/kinga_szczepanek_about_me.html`: About Me page (Russian)
+- `en/kinga_szczepanek_about_me.html`: About Me page (English)
+- `ru/kinga_szczepanek_kontakt.html`: Contact page (Russian)
+- `en/kinga_szczepanek_kontakt.html`: Contact page (English)
+- `ru/kinga_szczepanek_o_mnie.html`: About Me page (Russian)
+- `en/kinga_szczepanek_o_mnie.html`: About Me page (English)
+- `pl/kinga_szczepanek_xxx.html`: Placeholder page (Polish)
+- `ru/kinga_szczepanek_xxx.html`: Placeholder page (Russian)
+- `en/kinga_szczepanek_xxx.html`: Placeholder page (English)
+- `pl/polityka_prywatnosci.html`: Privacy Policy page (Polish)
+- `ru/polityka_prywatnosci.html`: Privacy Policy page (Russian)
+- `en/privacy_policy.html`: Privacy Policy page (English)
+- `pl/screenshots.html`: Screenshots page (Polish)
+- `ru/screenshots.html`: Screenshots page (Russian)
+- `en/screenshots.html`: Screenshots page (English)
